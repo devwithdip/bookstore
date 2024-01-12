@@ -26,5 +26,3 @@ The Book Store App provides the following features:
 - MongoDB: A NoSQL database used for storing book and user information.
 - Mongoose: A MongoDB object modeling tool for Node.js.
 - JSON Web Tokens (JWT): Used for user authentication and authorization.
-##### Deployment
-- Vercel: A cloud platform for deploying static websites and serverless functions
